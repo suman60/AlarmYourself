@@ -13,17 +13,17 @@ A Flutter-based mobile application designed to set alarm more friendly. It consi
 ## Screenshots
 
 ### Onboarding Screen 
-![FirstOnboarding Screen](assets/screenshots/screenshot1.png)
+![FirstOnboarding Screen](assets/screenshots/Screenshot1.png)
 
-![SecondOnboarding Screen](assets/screenshots/screenshot2.png)
+![SecondOnboarding Screen](assets/screenshots/Screenshot2.png)
 
-![ThirdOnboarding Screen](assets/screenshots/screenshot3.png)
+![ThirdOnboarding Screen](assets/screenshots/Screenshot3.png)
 
 ### Location Access:
-![location](assets/screenshots/screenshot4.png)
+![location](assets/screenshots/Screenshot4.png)
 
 ### Home Page
-![Home](assets/screenshots/screenshot5.png)
+![Home](assets/screenshots/Screenshot5.png)
 ## ⚙️ Project Setup Instructions
 
 
