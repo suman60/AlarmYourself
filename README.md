@@ -1,16 +1,23 @@
-# nature_sync_app
+# 🌿 Nature Sync App
 
-A new Flutter project.
+A Flutter-based mobile application designed to bring nature closer to users by providing location-based environmental data, notifications, and a smooth user experience.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📦 Tools & Packages Used
+- **Flutter** (cross-platform app development)
+- **Dart** (programming language)
+- **SQLite** (local database for storing app data)
+- **Provider** / **Riverpod** (state management, if used)
+- **Google Maps API** / **Location** (for location services, if used)
+- **Shared Preferences** (for storing lightweight settings)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Project Setup Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 📝 Optional — include in your tutorial if you want viewers to follow along
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/nature_sync_app.git
