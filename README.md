@@ -8,9 +8,6 @@ A Flutter-based mobile application designed to bring nature closer to users by p
 - **Flutter** (cross-platform app development)
 - **Dart** (programming language)
 - **SQLite** (local database for storing app data)
-- **Provider** / **Riverpod** (state management, if used)
-- **Google Maps API** / **Location** (for location services, if used)
-- **Shared Preferences** (for storing lightweight settings)
 
 ---
 
@@ -20,4 +17,4 @@ A Flutter-based mobile application designed to bring nature closer to users by p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nature_sync_app.git
+   git clone https://github.com/suman60/AlarmYourself.git
