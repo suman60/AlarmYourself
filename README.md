@@ -1,6 +1,6 @@
-# 🌿 Nature Sync App
+# 🌿 AlarmYourself 
 
-A Flutter-based mobile application designed to bring nature closer to users by providing location-based environmental data, notifications, and a smooth user experience.  
+A Flutter-based mobile application designed to set alarm more friendly. It consider the locactions where you have now for alarming.   
 
 ---
 
@@ -10,10 +10,22 @@ A Flutter-based mobile application designed to bring nature closer to users by p
 - **SQLite** (local database for storing app data)
 
 ---
+## Screenshots
 
+### Onboarding Screen 
+![FirstOnboarding Screen](assets/screenshots/screenshot1.png)
+
+![SecondOnboarding Screen](assets/screenshots/screenshot2.png)
+
+![ThirdOnboarding Screen](assets/screenshots/screenshot3.png)
+
+### Location Access:
+![location](assets/screenshots/screenshot4.png)
+
+### Home Page
+![Home](assets/screenshots/screenshot5.png)
 ## ⚙️ Project Setup Instructions
 
-> 📝 Optional — include in your tutorial if you want viewers to follow along
 
 1. Clone the repository:
    ```bash
